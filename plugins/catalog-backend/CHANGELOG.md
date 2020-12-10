@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 0.4.1
+
+### Patch Changes
+
+- c6eeefa35: Add support for Github Enterprise in GitHubOrgReaderProcessor so you can properly ingest users of a GHE organization.
+- Updated dependencies [0e6298f7e]
+  - @backstage/catalog-model@0.5.1
+
 ## 0.4.0
 
 ### Minor Changes
